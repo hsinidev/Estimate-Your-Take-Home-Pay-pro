@@ -9,8 +9,8 @@
   </p>
 
   <p align="center">
-    <a href="https://PaycheckCalculator.doodax.com" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-PaycheckCalculator.doodax.com-indigo?style=for-the-badge&logo=rocket" alt="Live Demo" height="40">
+    <a href="https://doodax.com/tools/paycheck-calculator/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-.doodax.com-indigo?style=for-the-badge&logo=rocket" alt="Live Demo" height="40">
     </a>
   </p>
 
